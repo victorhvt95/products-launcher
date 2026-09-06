@@ -1,3 +1,9 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = https://github.com/victorhvt95/ms-client-gateway.git
+[submodule "products-microservice"]
+	path = products-microservice
+	url = https://github.com/victorhvt95/ms-products.git
+[submodule "orders-microservice"]
+	path = orders-microservice
+	url = https://github.com/victorhvt95/ms-orders.git
